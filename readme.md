@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, :eyes: Me llamo Juan Ferrón</h1>
 <h3 align="center">Soy un Desarrollador Web Junior, esperando conocerte!</h3>
-<h3 align="center"> Desde niño me encanta hacer PUZZLES :jigsaw:, ahora me encanta PROGRAMAR!, porque es muy parecido! </h3>
+<h3 align="center"> Desde niño me encanta hacer PUZZLES :jigsaw:, ahora me encanta PROGRAMAR! que es muy parecido! </h3>
 
 - 🔭 Trabajando en **diversos proyectos**
 
