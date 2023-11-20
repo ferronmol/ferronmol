@@ -1,0 +1,69 @@
+@font-face{ 
+font-family:lcd; 
+src: url('../fuentes/lcd.ttf') format('truetype'); 
+}
+
+body{
+	background-image:url("../imagenes/fondo2.jpg");
+	background-size: cover;
+	background-attachment: fixed;
+}
+.texto-boton{
+	font-size: 1.5em;
+	font-variant: small-caps;
+	letter-spacing: 0.03em;
+	font-family: "Tahoma";
+}	
+
+.separador{
+	margin-top: 120px;
+}
+.visor_tiempo{
+	font-size: 2.5em;
+	font-family: 'lcd';
+	color: #99FE08;
+	background: rgba(0,0,0,0.2);
+	border-radius: 5px;
+}
+
+.juego{
+	margin-top: 30px;
+	background: rgba(0,0,0,0.2);
+	border-radius: 5px;
+}
+
+.cuadrofoto{
+	width: 80px; 
+	height: 130px; 
+	margin:15px 15px 0 0;
+	box-shadow: 5px 5px 5px #999;
+	border-radius:3px;
+}
+		
+.cuadrofoto img{
+	width:100%; 
+	height: 100%; 
+	cursor:pointer;
+	border-radius:3px;
+}
+
+.fondorojo{
+	background-color: rgba(255, 0, 0, 0.6)
+}
+
+
+
+
+
+	
+	
+
+
+
+
+	
+	
+	
+
+	
+	

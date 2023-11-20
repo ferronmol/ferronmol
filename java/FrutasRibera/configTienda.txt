@@ -1,0 +1,4 @@
+jdbc:oracle:thin:@localhost:1521:XE-tiendaFruta-tiendaFruta
+
+
+

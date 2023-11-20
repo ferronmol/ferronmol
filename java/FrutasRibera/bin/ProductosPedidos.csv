@@ -1,0 +1,13 @@
+codigoPedido;codigoProducto;nombre;descripcion;temporada;precioKg;KG
+1000;1;Aguacate;Se trata de un fruto aperado con grasa vegetal beneficiosa para tu salud;primavera;5.98;3
+1000;2;Papaya	;Es muy apreciada por su cantidad de vitamina C y por ayudar al tránsito digestivo;todoelaño;5.22;4
+2000;3;Guayabas;Entre sus beneficios y propiedades destacan los antioxidantes, antisépticos, analgésicos y astringentes que unido a su alta concentración en vitamina C, la convierte en un medicamento natural;primavera;4.88;5
+2000;1;Aguacate;Se trata de un fruto aperado con grasa vegetal beneficiosa para tu salud;primavera;5.98;5
+3000;3;Guayabas;Entre sus beneficios y propiedades destacan los antioxidantes, antisépticos, analgésicos y astringentes que unido a su alta concentración en vitamina C, la convierte en un medicamento natural;primavera;4.88;2		
+3000;4;Chirimoya;Se trata de una fruta tropical muy sensible al frío que sabe una mezcla de piña, plátano y mango;otoñoPrimavera;5.44;3
+4000;1;Aguacate;Se trata de un fruto aperado con grasa vegetal beneficiosa para tu salud;primavera;5.98;6
+4000;4;Chirimoya;Se trata de una fruta tropical muy sensible al frío que sabe una mezcla de piña, plátano y mango;otoñoPrimavera;5.44;3
+5000;1;Aguacate;Se trata de un fruto aperado con grasa vegetal beneficiosa para tu salud;primavera;5.98;2
+5000;4;Chirimoya;Se trata de una fruta tropical muy sensible al frío que sabe una mezcla de piña, plátano y mango;otoñoPrimavera;5.44;3
+
+
